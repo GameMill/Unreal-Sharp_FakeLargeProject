@@ -2,5 +2,5 @@
 | Description | Commit    | Time (Seconds) |
 | ----------- | --------- | ------- |
 | Original Build | f20377477944cfe2473126fdf3c3d00f9ae43d7c  | Not Tested |
-| 520 PR | 9ef01274d770ff18d585f827306e985eb877eb9b  | Not Tested |
+| 520 PR | 9ef01274d770ff18d585f827306e985eb877eb9b  | 289.33 - 296.61 |
 
