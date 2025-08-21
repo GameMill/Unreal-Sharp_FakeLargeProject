@@ -14,3 +14,4 @@
 | Structs | X |
 | Classes | Partial |
 | Delegates | ✅ 
+<img width="1202" height="98" alt="image" src="https://github.com/user-attachments/assets/08f27420-4b91-4b34-a430-ba9ea7201706" />
