@@ -7,9 +7,13 @@
 
 -------------------------------------
 # Files
-BasicActor.cs | A simple class with 10000 BP Sub-Class
-AdvancedActor.cs | A more Advanced class with 10000 BP Sub-Class
-\Advanced\* | Copies of AdvancedActor with properies and class names incremented 
+BasicActor.cs | A simple class with 10000 BP Sub-Class <br>
+AdvancedActor.cs | A more Advanced class with 10000 BP Sub-Class <br>
+\Copies\\* | Copies of AdvancedActor with properies and class names incremented  <br>
+
+# Utilities Files
+index.php | simple script for creating the C# Copies
+/Content/CreateBasicActors.py | Simple python script for creating copies of BP
 
 # Proof of concept status
 
