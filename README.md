@@ -5,6 +5,12 @@
 | 520 PR | 9ef01274d770ff18d585f827306e985eb877eb9b  | 32.73 - 34.29 |
 | Proof of concept | Not committed yet | 8.03 - 9.16 |
 
+-------------------------------------
+# Files
+BasicActor.cs | A simple class with 10000 BP Sub-Class
+AdvancedActor.cs | A more Advanced class with 10000 BP Sub-Class
+\Advanced\* | Copies of AdvancedActor with properies and class names incremented 
+
 # Proof of concept status
 
 | Weaver Functionality | State |
@@ -14,4 +20,6 @@
 | Structs | Partial |
 | Classes | Partial |
 | Delegates | ✅ |
-| MetaData | ✅ |
+| MetaData | Partial |
+
+
