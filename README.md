@@ -9,9 +9,9 @@
 
 | Weaver Functionality | State |
 | --------- | -------- |
-| Enums | X |
-| Interfaces | X |
-| Structs | X |
+| Enums | Partial |
+| Interfaces | Partial |
+| Structs | Partial |
 | Classes | Partial |
-| Delegates | ✅ 
-| MetaData | Partial |
+| Delegates | ✅ |
+| MetaData | ✅ |
