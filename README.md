@@ -13,6 +13,8 @@
 | AdvancedActor.cs | A more Advanced class with 10000 BP Sub-Class |
 | \Copies\\* | Copies of AdvancedActor with properies and class names incremented |
 
+<hr>
+
 | Utilities Files | Description |
 | ----------- | ----------- |
 | index.php | simple script for creating the C# Copies |
