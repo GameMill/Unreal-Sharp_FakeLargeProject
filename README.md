@@ -25,8 +25,8 @@
 | Weaver Functionality | State |
 | --------- | -------- |
 | Enums | Partial |
-| Interfaces | Partial |
-| Structs | Partial |
+| Interfaces | X |
+| Structs | X |
 | Classes | Partial |
 | Delegates | ✅ |
 | MetaData | Partial |
